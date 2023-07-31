@@ -14,6 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Express
 - Knex
 - NodeJS e NPM
+- Jest
 - bcryptjs
 - cors
 - dotenv
